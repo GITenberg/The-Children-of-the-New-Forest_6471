@@ -1,0 +1,44 @@
+_repo: The-Children-of-the-New-Forest_6471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Captain
+    - Marryatt, Captain
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: "The Children of the New Forest is a children's novel published in 1847\
+  \ by Frederick Marryat. It is set in the time of the English Civil War and the Commonwealth.\
+  \ The story follows the fortunes of the four Beverley children who are orphaned\
+  \ during the war, and hide from their Roundhead oppressors in the shelter of the\
+  \ New Forest where they learn to live off the land.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Historical Fiction
+- Children's Literature
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6471'
+  wikidata: Q7722508
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'New Forest (England : Forest) -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Fiction'
+- GITenberg
+title: The Children of the New Forest
+url: http://www.gutenberg.org/ebooks/6471
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Children_of_the_New_Forest
+- https://id.wikipedia.org/wiki/Anak-Anak_New_Forest
+- https://es.wikipedia.org/wiki/The_Children_of_the_New_Forest
+- https://da.wikipedia.org/wiki/B%C3%B8rnene_i_Nyskoven
