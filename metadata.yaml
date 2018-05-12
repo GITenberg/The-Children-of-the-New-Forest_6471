@@ -1,5 +1,8 @@
 _repo: The-Children-of-the-New-Forest_6471
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marryat, Frederick
@@ -17,6 +20,8 @@ description: "The Children of the New Forest is a children's novel published in 
   \ The story follows the fortunes of the four Beverley children who are orphaned\
   \ during the war, and hide from their Roundhead oppressors in the shelter of the\
   \ New Forest where they learn to live off the land.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6471#The-Children-of-the-New-Forest
 gutenberg_bookshelf:
 - Historical Fiction
 - Children's Literature
